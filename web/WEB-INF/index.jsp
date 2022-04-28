@@ -19,7 +19,7 @@
 
         <h2>Pero que ah pasao</h2>
         <table> </table>
-        HOLA
+        HOLA mundo
         <table>
             <tr><td></td></tr>
             <tr><td></td></tr>
