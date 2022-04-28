@@ -18,8 +18,7 @@
         <h1>Hola mundo</h1>
 
         <h2>Pero que ah pasao</h2>
-        <table> </table>
-        HOLA mundo
+        <table> </table>       
         <table>
             <tr><td></td></tr>
             <tr><td></td></tr>
