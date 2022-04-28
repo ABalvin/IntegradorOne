@@ -16,11 +16,13 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+
+        <h2>Pero que ah pasao</h2>
+        <table> </table>
         HOLA
         <table>
             <tr><td></td></tr>
             <tr><td></td></tr>
-
             </table>
     </body>
 </html>
